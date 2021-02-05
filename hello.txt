@@ -1,1 +1,2 @@
 Hello, world! I am making this file for git
+And I'm adding some stuff to it
